@@ -4,17 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/gradient_splash"
-    tools:context=".Activities.SplashActivity">
+
+    >
 
 
 
     <ImageView
         android:layout_centerHorizontal="true"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:id="@+id/logo"
-        android:src="@drawable/logo"
+        android:src="@drawable/trophy"
         android:layout_centerInParent="true"
         android:padding="40dp"
         android:layout_margin="30dp"
@@ -25,14 +25,14 @@
 
     <TextView
         android:id="@+id/splashtext"
-        android:textColor="#fff"
+        android:textColor="@color/colorAccent"
         android:gravity="center"
         android:textSize="30dp"
         android:layout_below="@+id/logo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif"
-        android:text="ITM Daily Report"/>
+        android:text="Goal Setter"/>
 
 
 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206911070711",
+    "firebase_url": "https://goalgetter-6cd94.firebaseio.com",
+    "project_id": "goalgetter-6cd94",
+    "storage_bucket": "goalgetter-6cd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206911070711:android:eff352b4d8349c93",
+        "android_client_info": {
+          "package_name": "edu.itm.goalgetter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206911070711-qki36o4d7qsahrdhuoueqjgraddil522.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.itm.goalgetter",
+            "certificate_hash": "03e2c7c942ccdfd10ef6a4972ede5586369987e5"
+          }
+        },
+        {
+          "client_id": "206911070711-9g372sd36o8f69i96cd7m1n5q08ore6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqymrBh2mSwSJBViXs86X3eKG-rk5UNVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206911070711-9g372sd36o8f69i96cd7m1n5q08ore6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
