@@ -1,4 +1,4 @@
-package edu.itm.goalgetter;
+package edu.itm.goalgetter.Activities;
 
 
 import android.content.Intent;
@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.WindowManager;
 import android.widget.TextView;
+
+import edu.itm.goalgetter.R;
 
 public class SplashActivity extends AppCompatActivity {
 

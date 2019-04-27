@@ -1,7 +1,9 @@
-package edu.itm.goalgetter;
+package edu.itm.goalgetter.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import edu.itm.goalgetter.R;
 
 public class HomeActivity extends AppCompatActivity {
 
