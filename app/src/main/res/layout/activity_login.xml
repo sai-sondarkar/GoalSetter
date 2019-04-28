@@ -144,7 +144,8 @@
         android:text="No Account? Sign Up !"
         android:layout_width="match_parent"
         android:textSize="15sp"
-
+        android:clickable="true"
+        android:onClick="GotoSignUP"
         android:layout_marginBottom="20dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
